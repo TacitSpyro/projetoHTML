@@ -24,4 +24,30 @@ nav a{
     padding: 10px 15px;
 }
 
+nav a:hover{
+    background-color: #008b8b;
+    border-radius: 5px;
+}
 
+#conteudo{
+    padding: 30px;
+    background-color: white;
+    margin: 20px auto;
+    width: 80%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+aside{
+    background-color: #afeeee;
+    padding: 15px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+footer{
+    background-color: #00ced1;
+    color: white;
+    padding: 15px;
+    margin-top: 20px;
+}
